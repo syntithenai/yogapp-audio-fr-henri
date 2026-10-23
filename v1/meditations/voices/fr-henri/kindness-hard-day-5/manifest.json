@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 115,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Trouvez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 2,
+      "text": "Laissez les mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 3,
+      "text": "Adoucissez les yeux ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "Et une expiration plus longue.",
+      "file": "c005.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 6,
+      "text": "Vous n’avez pas besoin de prétendre que c’était facile.",
+      "file": "c006.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 7,
+      "text": "Que la vérité de la fatigue soit permise.",
+      "file": "c007.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 8,
+      "text": "[pause : 31]",
+      "file": "c008.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 9,
+      "text": "Respirez avec soin.",
+      "file": "c009.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 10,
+      "text": "Expirez l’exigence d’aller bien.",
+      "file": "c010.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 11,
+      "text": "[pause : 31]",
+      "file": "c011.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 12,
+      "text": "Puis-je être doux avec moi-même ce soir.",
+      "file": "c012.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 13,
+      "text": "Puis-je me reposer tel que je suis.",
+      "file": "c013.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 14,
+      "text": "[pause : 31]",
+      "file": "c014.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 15,
+      "text": "Puisse demain demander seulement ce que je peux donner.",
+      "file": "c015.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 16,
+      "text": "[pause : 31]",
+      "file": "c016.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 17,
+      "text": "Sentez le corps soutenu.",
+      "file": "c017.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 18,
+      "text": "Rien de plus n'est requis dans cette minute.",
+      "file": "c018.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 19,
+      "text": "[pause : 45]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "La main sur le cœur, si ça peut aider.",
+      "file": "c020.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 21,
+      "text": "Vous avez réussi.",
+      "file": "c021.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 22,
+      "text": "[pause : 38]",
+      "file": "c022.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 23,
+      "text": "Respirez encore une fois.",
+      "file": "c023.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 24,
+      "text": "Remuez les doigts.",
+      "file": "c024.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 25,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c025.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 26,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c026.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

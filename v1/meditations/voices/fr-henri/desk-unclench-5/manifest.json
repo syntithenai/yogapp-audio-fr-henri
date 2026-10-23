@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 118,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Restez assis. C'est pour le milieu du travail.",
+      "file": "c001.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 2,
+      "text": "Décrochez un instant le regard de l’écran.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Regardez plus loin, si vous le pouvez.",
+      "file": "c003.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 4,
+      "text": "[pause : 28]",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Roulez les épaules vers le haut, vers l’arrière et vers le bas.",
+      "file": "c005.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 6,
+      "text": "Deux fois plus.",
+      "file": "c006.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 7,
+      "text": "[pause : 38]",
+      "file": "c007.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 8,
+      "text": "Ouvrez et fermez les mains.",
+      "file": "c008.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 9,
+      "text": "Secouez-les légèrement.",
+      "file": "c009.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 10,
+      "text": "[pause : 28]",
+      "file": "c010.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 11,
+      "text": "Adoucit le sourcil.",
+      "file": "c011.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 12,
+      "text": "Desserrez la mâchoire. Laissez la langue reposer.",
+      "file": "c012.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 13,
+      "text": "[pause : 38]",
+      "file": "c013.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 14,
+      "text": "Inspirez par les côtés des côtes.",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "Expirez et laissez la poitrine se stabiliser.",
+      "file": "c015.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 16,
+      "text": "[pause : 38]",
+      "file": "c016.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 17,
+      "text": "Clignez lentement des yeux trois fois.",
+      "file": "c017.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 18,
+      "text": "[pause : 28]",
+      "file": "c018.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 19,
+      "text": "Encore une respiration complète.",
+      "file": "c019.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 20,
+      "text": "Revenez quand vous êtes prêt, un peu moins préparé.",
+      "file": "c020.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 21,
+      "text": "[pause : 28]",
+      "file": "c021.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 22,
+      "text": "Respirez encore une fois.",
+      "file": "c022.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 23,
+      "text": "Remuez les doigts.",
+      "file": "c023.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 24,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c024.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 25,
+      "text": "Reportez-vous facilement à la tâche suivante.",
+      "file": "c025.ogg",
+      "durationSec": 5.544
+    }
+  ]
+}

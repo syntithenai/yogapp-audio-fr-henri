@@ -1,0 +1,297 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 334,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenue.",
+      "file": "c000.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 1,
+      "text": "Ceci est une pratique de respiration claire.",
+      "file": "c001.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 2,
+      "text": "Trouvez une position confortable, ou allongez-vous si cela vous semble mieux.",
+      "file": "c002.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 3,
+      "text": "Laissez les mains reposer.",
+      "file": "c003.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 4,
+      "text": "Adoucissez les yeux, ou fermez-les.",
+      "file": "c004.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 5,
+      "text": "Prenez une respiration lente par le nez.",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Et une expiration plus longue.",
+      "file": "c006.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 7,
+      "text": "[pause:10]",
+      "file": "c007.ogg",
+      "durationSec": 10.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Remarquez l'air tel qu'il est.",
+      "file": "c008.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 9,
+      "text": "Froid à l'inspire.",
+      "file": "c009.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 10,
+      "text": "Chaud à l'expire.",
+      "file": "c010.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 11,
+      "text": "Pas de fumée. Pas de poison. Juste la respiration.",
+      "file": "c011.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 12,
+      "text": "[pause:12]",
+      "file": "c012.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Sentez la poitrine se dilater sans effort.",
+      "file": "c013.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 14,
+      "text": "Sentez les côtes s'élargir légèrement.",
+      "file": "c014.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 15,
+      "text": "[pause:12]",
+      "file": "c015.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Posez une main sur le cœur, ou laissez les deux mains dans le creux des genoux.",
+      "file": "c016.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 17,
+      "text": "Sentez un corps qui guérit.",
+      "file": "c017.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 18,
+      "text": "Poumons qui se dégagent. Sang plus libre. Sens de l'odorat qui revient, jour après jour.",
+      "file": "c018.ogg",
+      "durationSec": 12.696
+    },
+    {
+      "index": 19,
+      "text": "[pause:16]",
+      "file": "c019.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Essayez silencieusement ces phrases, ou écoutez simplement.",
+      "file": "c020.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 21,
+      "text": "Mon souffle m'appartient.",
+      "file": "c021.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 22,
+      "text": "[pause:12]",
+      "file": "c022.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Je choisis l'air pur.",
+      "file": "c023.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 24,
+      "text": "[pause:12]",
+      "file": "c024.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "J'ai terminé avec ce poison.",
+      "file": "c025.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 26,
+      "text": "[pause:14]",
+      "file": "c026.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Imaginez votre prochain moment ordinaire sans cigarette.",
+      "file": "c027.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 28,
+      "text": "Café. Une promenade. Une pause après un repas.",
+      "file": "c028.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 29,
+      "text": "Voyez-vous accompli dans ce moment, déjà libre.",
+      "file": "c029.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 30,
+      "text": "[pause:22]",
+      "file": "c030.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Si un souvenir de fumer apparaît, laissez-le être une image, pas un plan.",
+      "file": "c031.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 32,
+      "text": "Revenez à cette inspiration.",
+      "file": "c032.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 33,
+      "text": "Revenez à cette expiration.",
+      "file": "c033.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 34,
+      "text": "[pause:14]",
+      "file": "c034.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Respirez la liberté.",
+      "file": "c035.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 36,
+      "text": "Expirez l'histoire de l'ancienne habitude.",
+      "file": "c036.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 37,
+      "text": "[pause:14]",
+      "file": "c037.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 38,
+      "text": "Vous avez pris la décision qui compte.",
+      "file": "c038.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 39,
+      "text": "Votre corps rattrape cette vérité.",
+      "file": "c039.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 40,
+      "text": "[pause:12]",
+      "file": "c040.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 41,
+      "text": "Prenez une dernière inspiration claire.",
+      "file": "c041.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 42,
+      "text": "Et une longue expiration facile.",
+      "file": "c042.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 43,
+      "text": "Agitez les doigts.",
+      "file": "c043.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 44,
+      "text": "Quand vous êtes prêt, ouvrez les yeux.",
+      "file": "c044.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 45,
+      "text": "Emportez cet air clair avec vous.",
+      "file": "c045.ogg",
+      "durationSec": 4.32
+    }
+  ]
+}

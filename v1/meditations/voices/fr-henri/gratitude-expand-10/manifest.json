@@ -1,0 +1,238 @@
+{
+  "id": "gratitude-expand-10",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 179,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez le temps d'arriver.",
+      "file": "c001.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous ou allongez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact avec le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement.",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "Expirez plus longtemps.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 27]",
+      "file": "c007.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 8,
+      "text": "Encore.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "[pause : 27]",
+      "file": "c009.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 10,
+      "text": "Laissez les épaules tomber.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Laissez le ventre ramollir.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[pause : 34]",
+      "file": "c012.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 13,
+      "text": "Commencez avec un petit bien concret.",
+      "file": "c013.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 14,
+      "text": "Tenez-le. Merci.",
+      "file": "c014.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 15,
+      "text": "[pause : 40]",
+      "file": "c015.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 16,
+      "text": "Une seconde. Une personne, un lieu ou un confort.",
+      "file": "c016.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 17,
+      "text": "Merci.",
+      "file": "c017.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 18,
+      "text": "[pause : 40]",
+      "file": "c018.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 19,
+      "text": "Un troisième. Quelque chose dans votre corps qui fonctionne aujourd'hui.",
+      "file": "c019.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 20,
+      "text": "Merci.",
+      "file": "c020.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 21,
+      "text": "[pause : 40]",
+      "file": "c021.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 22,
+      "text": "Élargissez-vous aux personnes qui ont été gentilles, même brièvement.",
+      "file": "c022.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 23,
+      "text": "[pause : 54]",
+      "file": "c023.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 24,
+      "text": "Élargissez-vous à l'endroit où vous vous trouvez. Abri. Air. Sol.",
+      "file": "c024.ogg",
+      "durationSec": 11.976
+    },
+    {
+      "index": 25,
+      "text": "[pause : 54]",
+      "file": "c025.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 26,
+      "text": "Si la gratitude vous semble difficile, remerciez l’effort de vous présenter.",
+      "file": "c026.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 27,
+      "text": "Cela compte.",
+      "file": "c027.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 28,
+      "text": "[pause : 40]",
+      "file": "c028.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 29,
+      "text": "Reposez-vous dans toute la chaleur qui s'est manifestée.",
+      "file": "c029.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 30,
+      "text": "Ou reposez-vous sur l’intention elle-même.",
+      "file": "c030.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 31,
+      "text": "[pause : 90]",
+      "file": "c031.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 32,
+      "text": "[pause : 40]",
+      "file": "c032.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 33,
+      "text": "Commencez à approfondir la respiration.",
+      "file": "c033.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 34,
+      "text": "Sentez à nouveau la pièce.",
+      "file": "c034.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 35,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c035.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 36,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c036.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 37,
+      "text": "Avancez lentement vers ce qui va suivre.",
+      "file": "c037.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

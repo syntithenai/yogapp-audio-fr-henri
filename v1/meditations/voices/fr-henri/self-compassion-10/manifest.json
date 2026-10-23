@@ -1,0 +1,250 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 174,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez le temps d'arriver.",
+      "file": "c001.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous ou allongez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact avec le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement.",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "Expirez plus longtemps.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 26]",
+      "file": "c007.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 8,
+      "text": "Encore.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "[pause : 26]",
+      "file": "c009.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 10,
+      "text": "Laissez les épaules tomber.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Laissez le ventre ramollir.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[pause : 32]",
+      "file": "c012.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 13,
+      "text": "La main sur le cœur, si ça peut aider.",
+      "file": "c013.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 14,
+      "text": "Remarquez votre état sans jugement.",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "[pause : 32]",
+      "file": "c015.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 16,
+      "text": "C’est un moment de souffrance ou de tension humaine ordinaire.",
+      "file": "c016.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 17,
+      "text": "D’autres ressentent cela aussi.",
+      "file": "c017.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 18,
+      "text": "[pause : 39]",
+      "file": "c018.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 19,
+      "text": "Puissé-je être gentil avec moi-même en ce moment.",
+      "file": "c019.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 20,
+      "text": "[pause : 32]",
+      "file": "c020.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 21,
+      "text": "Puis-je m'accepter tel que je suis.",
+      "file": "c021.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 22,
+      "text": "[pause : 32]",
+      "file": "c022.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 23,
+      "text": "Puis-je me donner la compassion dont j'ai besoin.",
+      "file": "c023.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 24,
+      "text": "[pause : 39]",
+      "file": "c024.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 25,
+      "text": "Répétez les phrases qui atterrissent. Laissez ceux qui ne le font pas.",
+      "file": "c025.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 26,
+      "text": "[pause : 52]",
+      "file": "c026.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 27,
+      "text": "Imaginez-vous vous parler comme le ferait un ami sage.",
+      "file": "c027.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 28,
+      "text": "Quel ton utiliseraient-ils ?",
+      "file": "c028.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 29,
+      "text": "Offrez-vous ce ton maintenant.",
+      "file": "c029.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 30,
+      "text": "[pause : 65]",
+      "file": "c030.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 31,
+      "text": "Inspirez la gentillesse.",
+      "file": "c031.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 32,
+      "text": "Expirez la dureté.",
+      "file": "c032.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 33,
+      "text": "[pause : 78]",
+      "file": "c033.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 34,
+      "text": "[pause : 39]",
+      "file": "c034.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 35,
+      "text": "Commencez à approfondir la respiration.",
+      "file": "c035.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 36,
+      "text": "Sentez à nouveau la pièce.",
+      "file": "c036.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 37,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c037.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 38,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c038.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 39,
+      "text": "Avancez lentement vers ce qui va suivre.",
+      "file": "c039.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

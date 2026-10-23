@@ -1,0 +1,238 @@
+{
+  "id": "evening-unload-10",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 177,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez le temps d'arriver.",
+      "file": "c001.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous ou allongez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact avec le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement.",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "Expirez plus longtemps.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 26]",
+      "file": "c007.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 8,
+      "text": "Encore.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "[pause : 26]",
+      "file": "c009.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 10,
+      "text": "Laissez les épaules tomber.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Laissez le ventre ramollir.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[pause : 33]",
+      "file": "c012.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 13,
+      "text": "Que la journée soit finie pour le moment.",
+      "file": "c013.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 14,
+      "text": "Ce qui est arrivé est arrivé.",
+      "file": "c014.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 15,
+      "text": "Ce qui reste peut attendre jusqu'au matin.",
+      "file": "c015.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 16,
+      "text": "[pause : 33]",
+      "file": "c016.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 17,
+      "text": "En expirant, imaginez placer des tâches sur une étagère.",
+      "file": "c017.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 18,
+      "text": "Un par un. Pas de drame. Asseyez-vous simplement.",
+      "file": "c018.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 19,
+      "text": "[pause : 53]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "Inspirez quatre. Expirez six.",
+      "file": "c020.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 21,
+      "text": "[pause : 33]",
+      "file": "c021.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 22,
+      "text": "Adoucit le visage.",
+      "file": "c022.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 23,
+      "text": "Baissez les épaules.",
+      "file": "c023.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 24,
+      "text": "Des armes lourdes. Jambes lourdes.",
+      "file": "c024.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 25,
+      "text": "[pause : 40]",
+      "file": "c025.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 26,
+      "text": "Si votre esprit réfléchit à nouveau, faites-y un signe de tête et retournez à l'étagère.",
+      "file": "c026.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 27,
+      "text": "[pause : 53]",
+      "file": "c027.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 28,
+      "text": "Sentez le matelas ou la chaise vous retenir.",
+      "file": "c028.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 29,
+      "text": "[pause :66]",
+      "file": "c029.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 30,
+      "text": "Respirez plus calmement. Corps plus lourd.",
+      "file": "c030.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 31,
+      "text": "[pause : 90]",
+      "file": "c031.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 32,
+      "text": "[pause : 40]",
+      "file": "c032.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 33,
+      "text": "Commencez à approfondir la respiration.",
+      "file": "c033.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 34,
+      "text": "Sentez à nouveau la pièce.",
+      "file": "c034.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 35,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c035.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 36,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c036.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 37,
+      "text": "Avancez lentement vers ce qui va suivre.",
+      "file": "c037.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

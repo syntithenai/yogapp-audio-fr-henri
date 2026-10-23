@@ -1,0 +1,316 @@
+{
+  "id": "anxiety-ease-10",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 234,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez le temps d'arriver.",
+      "file": "c001.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous ou allongez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact avec le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement.",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "Expirez plus longtemps.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 20]",
+      "file": "c007.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 8,
+      "text": "Encore.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "[pause : 20]",
+      "file": "c009.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 10,
+      "text": "Laissez les épaules tomber.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Laissez le ventre ramollir.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[pause : 25]",
+      "file": "c012.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 13,
+      "text": "L’anxiété est peut-être encore là. C'est permis.",
+      "file": "c013.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 14,
+      "text": "Nous ne le combattons pas. Nous nous lions d'amitié avec le corps.",
+      "file": "c014.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 15,
+      "text": "[pause : 25]",
+      "file": "c015.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 16,
+      "text": "Appuyez doucement les pieds sur le sol.",
+      "file": "c016.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 17,
+      "text": "Sentez le sol reculer.",
+      "file": "c017.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 18,
+      "text": "[pause : 25]",
+      "file": "c018.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 19,
+      "text": "Nommez trois choses que vous pouvez voir derrière les yeux fermés ou avec un regard doux.",
+      "file": "c019.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 20,
+      "text": "Sombre. Lumière. Forme des paupières.",
+      "file": "c020.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 21,
+      "text": "[pause : 25]",
+      "file": "c021.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 22,
+      "text": "Nommez trois sensations.",
+      "file": "c022.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 23,
+      "text": "Vêtements. Température. Haleine.",
+      "file": "c023.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 24,
+      "text": "[pause : 25]",
+      "file": "c024.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 25,
+      "text": "Inspirez pendant quatre.",
+      "file": "c025.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 26,
+      "text": "Tenez pour deux.",
+      "file": "c026.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 27,
+      "text": "Sortie pour six heures.",
+      "file": "c027.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 28,
+      "text": "[pause : 20]",
+      "file": "c028.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 29,
+      "text": "Encore.",
+      "file": "c029.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 30,
+      "text": "[pause : 25]",
+      "file": "c030.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 31,
+      "text": "Placez une main sur la poitrine ou le ventre.",
+      "file": "c031.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 32,
+      "text": "Sentez le mouvement sous la main.",
+      "file": "c032.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 33,
+      "text": "Dites doucement : en ce moment, je respire.",
+      "file": "c033.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 34,
+      "text": "[pause : 30]",
+      "file": "c034.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 35,
+      "text": "Si l’esprit s’emballe, remerciez-le d’avoir essayé de vous protéger.",
+      "file": "c035.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 36,
+      "text": "Revenez ensuite à ce souffle.",
+      "file": "c036.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 37,
+      "text": "[pause : 41]",
+      "file": "c037.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 38,
+      "text": "Scannez le visage. Adoucir.",
+      "file": "c038.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 39,
+      "text": "Scannez les mains. Adoucir.",
+      "file": "c039.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 40,
+      "text": "[pause : 30]",
+      "file": "c040.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 41,
+      "text": "Reposez-vous au rythme d’expirations plus longues.",
+      "file": "c041.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 42,
+      "text": "[pause : 76]",
+      "file": "c042.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 43,
+      "text": "Vous avez donné au système nerveux un rivage plus large.",
+      "file": "c043.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 44,
+      "text": "[pause : 41]",
+      "file": "c044.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 45,
+      "text": "[pause : 30]",
+      "file": "c045.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 46,
+      "text": "Commencez à approfondir la respiration.",
+      "file": "c046.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 47,
+      "text": "Sentez à nouveau la pièce.",
+      "file": "c047.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 48,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c048.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 49,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c049.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 50,
+      "text": "Avancez lentement vers ce qui va suivre.",
+      "file": "c050.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 183,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez le temps d'arriver.",
+      "file": "c001.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous ou allongez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact avec le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement.",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "Expirez plus longtemps.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 25]",
+      "file": "c007.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 8,
+      "text": "Encore.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "[pause : 25]",
+      "file": "c009.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 10,
+      "text": "Laissez les épaules tomber.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Laissez le ventre ramollir.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[pause : 31]",
+      "file": "c012.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 13,
+      "text": "Portez l'attention sur le centre de la poitrine.",
+      "file": "c013.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 14,
+      "text": "Ne pas forcer les sentiments. Il suffit de localiser l'espace.",
+      "file": "c014.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 15,
+      "text": "[pause : 31]",
+      "file": "c015.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 16,
+      "text": "Respirez comme si l’inspiration entrait par le cœur.",
+      "file": "c016.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 17,
+      "text": "Comme si l’expiration adoucissait le cœur de l’intérieur.",
+      "file": "c017.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 18,
+      "text": "[pause : 37]",
+      "file": "c018.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 19,
+      "text": "Si une émotion surgit, laissez-la évoluer comme le temps.",
+      "file": "c019.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 20,
+      "text": "[pause : 37]",
+      "file": "c020.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 21,
+      "text": "En silence : que mon cœur soit en paix.",
+      "file": "c021.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 22,
+      "text": "[pause : 31]",
+      "file": "c022.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 23,
+      "text": "Puis-je être patient avec mon propre timing.",
+      "file": "c023.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 24,
+      "text": "[pause : 31]",
+      "file": "c024.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 25,
+      "text": "Rappelez-vous quelqu’un dont on peut se soucier facilement.",
+      "file": "c025.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 26,
+      "text": "Souhaitez-leur du calme.",
+      "file": "c026.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 27,
+      "text": "Puissiez-vous être à l'aise.",
+      "file": "c027.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 28,
+      "text": "[pause : 37]",
+      "file": "c028.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 29,
+      "text": "Retournez dans votre propre espace cardiaque.",
+      "file": "c029.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 30,
+      "text": "Chaud. Spacieux. Humain.",
+      "file": "c030.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 31,
+      "text": "[pause : 75]",
+      "file": "c031.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 32,
+      "text": "Reposez-vous ici.",
+      "file": "c032.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 33,
+      "text": "[pause : 90]",
+      "file": "c033.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 34,
+      "text": "[pause : 37]",
+      "file": "c034.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 35,
+      "text": "Commencez à approfondir la respiration.",
+      "file": "c035.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 36,
+      "text": "Sentez à nouveau la pièce.",
+      "file": "c036.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 37,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c037.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 38,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c038.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 39,
+      "text": "Avancez lentement vers ce qui va suivre.",
+      "file": "c039.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

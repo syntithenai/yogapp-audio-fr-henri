@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 180,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenue dans une pratique pour le sommeil.",
+      "file": "c000.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 1,
+      "text": "Allongez-vous. Faites de l'obscurité votre amie.",
+      "file": "c001.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 2,
+      "text": "Vous pourrez vous endormir avant la fin. C'est ça le succès.",
+      "file": "c002.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 3,
+      "text": "[pause : 22]",
+      "file": "c003.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "Expirez plus longtemps.",
+      "file": "c005.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 6,
+      "text": "[pause : 22]",
+      "file": "c006.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 7,
+      "text": "Relâchez le front.",
+      "file": "c007.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 8,
+      "text": "[pause : 18]",
+      "file": "c008.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 9,
+      "text": "Relâchez les yeux.",
+      "file": "c009.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 10,
+      "text": "[pause : 18]",
+      "file": "c010.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 11,
+      "text": "Relâchez la mâchoire et la langue.",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "[pause : 22]",
+      "file": "c012.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 13,
+      "text": "Les épaules fondent.",
+      "file": "c013.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 14,
+      "text": "[pause : 22]",
+      "file": "c014.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 15,
+      "text": "Les bras lourds. Les mains ouvertes.",
+      "file": "c015.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 16,
+      "text": "[pause : 22]",
+      "file": "c016.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 17,
+      "text": "Poitrine douce. Ventre mou.",
+      "file": "c017.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 18,
+      "text": "[pause : 22]",
+      "file": "c018.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 19,
+      "text": "Hanches lourdes.",
+      "file": "c019.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 20,
+      "text": "[pause : 22]",
+      "file": "c020.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 21,
+      "text": "Jambes lourdes. Pieds lourds.",
+      "file": "c021.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 22,
+      "text": "[pause : 27]",
+      "file": "c022.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 23,
+      "text": "Le corps tout entier s'enfonçant dans le lit.",
+      "file": "c023.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 24,
+      "text": "[pause : 36]",
+      "file": "c024.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 25,
+      "text": "Des pensées comme un trafic lointain.",
+      "file": "c025.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 26,
+      "text": "Vous ne les suivez pas.",
+      "file": "c026.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 27,
+      "text": "[pause : 45]",
+      "file": "c027.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 28,
+      "text": "Respirez plus calmement.",
+      "file": "c028.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 29,
+      "text": "[pause : 45]",
+      "file": "c029.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 30,
+      "text": "Plus sombre. Plus doux. Ralentissez.",
+      "file": "c030.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 31,
+      "text": "[pause :67]",
+      "file": "c031.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 32,
+      "text": "Rien à finir.",
+      "file": "c032.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 33,
+      "text": "[pause : 54]",
+      "file": "c033.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 34,
+      "text": "Coffre-fort pour se reposer.",
+      "file": "c034.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 35,
+      "text": "[pause : 89]",
+      "file": "c035.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 36,
+      "text": "Dormir en toute sécurité.",
+      "file": "c036.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 37,
+      "text": "[pause : 112]",
+      "file": "c037.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 38,
+      "text": "Si vous êtes encore éveillé, continuez à vous reposer en expirant.",
+      "file": "c038.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 39,
+      "text": "[pause : 89]",
+      "file": "c039.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 40,
+      "text": "Bonne nuit.",
+      "file": "c040.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 41,
+      "text": "[pause :67]",
+      "file": "c041.ogg",
+      "durationSec": 4.104
+    }
+  ]
+}

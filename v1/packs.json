@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "fr-henri.zip", "bytes": 94548359, "sha256": "dc302faf01322a6d26ad417b03c80ba92f312c273c0a8af23fe6bbdaa98ca5a4"}
+  ]
+}

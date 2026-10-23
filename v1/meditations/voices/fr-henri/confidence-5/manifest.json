@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 138,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Trouvez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 2,
+      "text": "Laissez les mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 3,
+      "text": "Adoucissez les yeux ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "Et une expiration plus longue.",
+      "file": "c005.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 6,
+      "text": "Sentez les ischions ou les pieds.",
+      "file": "c006.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 7,
+      "text": "Une base stable sous vous.",
+      "file": "c007.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 8,
+      "text": "[pause : 22]",
+      "file": "c008.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 9,
+      "text": "Allonge la colonne vertébrale sans durcir.",
+      "file": "c009.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 10,
+      "text": "Visage doux. Ventre mou. Centre fort.",
+      "file": "c010.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 11,
+      "text": "[pause : 22]",
+      "file": "c011.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 12,
+      "text": "Essayez ces phrases en silence ou écoutez simplement.",
+      "file": "c012.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 13,
+      "text": "Je peux rencontrer ce qui m'appartient.",
+      "file": "c013.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 14,
+      "text": "[pause : 22]",
+      "file": "c014.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 15,
+      "text": "Je n’ai pas besoin de précipiter mon devenir.",
+      "file": "c015.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 16,
+      "text": "[pause : 22]",
+      "file": "c016.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 17,
+      "text": "J'ai confiance en ma prochaine étape honnête.",
+      "file": "c017.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 18,
+      "text": "[pause : 28]",
+      "file": "c018.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 19,
+      "text": "Respirez la confiance sous forme de chaleur dans la poitrine, pas comme d'armure.",
+      "file": "c019.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 20,
+      "text": "[pause : 28]",
+      "file": "c020.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 21,
+      "text": "Imaginez-vous relever un défi ordinaire avec régularité.",
+      "file": "c021.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 22,
+      "text": "[pause : 33]",
+      "file": "c022.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 23,
+      "text": "Revenez à la respiration.",
+      "file": "c023.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 24,
+      "text": "Constant. Assez.",
+      "file": "c024.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 25,
+      "text": "[pause : 28]",
+      "file": "c025.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 26,
+      "text": "Respirez encore une fois.",
+      "file": "c026.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 27,
+      "text": "Remuez les doigts.",
+      "file": "c027.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 28,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c028.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 29,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c029.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

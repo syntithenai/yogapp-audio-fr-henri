@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 322,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bonjour.",
+      "file": "c000.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 1,
+      "text": "Bienvenue à une courte pratique pour répondre à la journée.",
+      "file": "c001.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous droit ou debout si cela vous convient.",
+      "file": "c002.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 3,
+      "text": "Laissez vos yeux s'adoucir ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 4,
+      "text": "Sentez vos pieds sur le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement par le nez.",
+      "file": "c005.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 6,
+      "text": "Et une expiration plus complète par la bouche.",
+      "file": "c006.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 7,
+      "text": "Encore. Inspirez doucement.",
+      "file": "c007.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 8,
+      "text": "Expirez complètement.",
+      "file": "c008.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 9,
+      "text": "Un de plus. Remplissez le coffre.",
+      "file": "c009.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 10,
+      "text": "Vider complètement.",
+      "file": "c010.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 11,
+      "text": "[pause : 4]",
+      "file": "c011.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 12,
+      "text": "Regardez la journée avec impatience sans la saisir.",
+      "file": "c012.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 13,
+      "text": "Vous n'avez pas encore besoin de la carte entière.",
+      "file": "c013.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 14,
+      "text": "Juste la prochaine étape honnête.",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "[pause : 5]",
+      "file": "c015.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 16,
+      "text": "Inspirez pendant quatre.",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "Deux. Trois. Quatre.",
+      "file": "c017.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 18,
+      "text": "Expirez pendant quatre.",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Deux. Trois. Quatre.",
+      "file": "c019.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 20,
+      "text": "Encore une fois, à votre rythme.",
+      "file": "c020.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 21,
+      "text": "[pause : 6]",
+      "file": "c021.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 22,
+      "text": "Sentez la chaleur dans les mains.",
+      "file": "c022.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 23,
+      "text": "Sentez-vous prêt dans les jambes.",
+      "file": "c023.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 24,
+      "text": "[pause : 4]",
+      "file": "c024.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 25,
+      "text": "Roulez les épaules vers le haut, vers l’arrière et vers le bas.",
+      "file": "c025.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 26,
+      "text": "Desserrez la mâchoire.",
+      "file": "c026.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 27,
+      "text": "Adoucir le ventre.",
+      "file": "c027.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 28,
+      "text": "Notez les restes de sommeil dans le corps.",
+      "file": "c028.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 29,
+      "text": "Pas besoin de le repousser.",
+      "file": "c029.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 30,
+      "text": "Respirez par les côtés des côtes.",
+      "file": "c030.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 31,
+      "text": "Et laissez-les se rétrécir en expirant.",
+      "file": "c031.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 32,
+      "text": "[pause : 5]",
+      "file": "c032.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 33,
+      "text": "Apportez maintenant un peu de luminosité à la respiration.",
+      "file": "c033.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 34,
+      "text": "Inspirez comme si vous vous réveilliez de l’intérieur.",
+      "file": "c034.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 35,
+      "text": "Expirez tout ce qui est lourd d’hier.",
+      "file": "c035.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 36,
+      "text": "Possibilité d'inspirer.",
+      "file": "c036.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 37,
+      "text": "Expirez un effort qui n’est pas encore nécessaire.",
+      "file": "c037.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 38,
+      "text": "[pause : 4]",
+      "file": "c038.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 39,
+      "text": "Placez une main sur le cœur ou posez les deux mains sur les genoux.",
+      "file": "c039.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 40,
+      "text": "En silence ou simplement en écoutant, essayez ces phrases.",
+      "file": "c040.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 41,
+      "text": "Je suis là.",
+      "file": "c041.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 42,
+      "text": "Je recommence.",
+      "file": "c042.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 43,
+      "text": "J'en ai assez pour ce matin.",
+      "file": "c043.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 44,
+      "text": "[pause : 4]",
+      "file": "c044.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 45,
+      "text": "J'avance avec régularité.",
+      "file": "c045.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 46,
+      "text": "Je rencontre ce qui vient avec un esprit clair.",
+      "file": "c046.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 47,
+      "text": "J'ai le droit de prendre de la place aujourd'hui.",
+      "file": "c047.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 48,
+      "text": "[pause : 5]",
+      "file": "c048.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 49,
+      "text": "Je choisis une intention claire pour aujourd’hui.",
+      "file": "c049.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 50,
+      "text": "Cela peut être simple.",
+      "file": "c050.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 51,
+      "text": "Gentillesse. Se concentrer. Patience. Énergie.",
+      "file": "c051.ogg",
+      "durationSec": 11.64
+    },
+    {
+      "index": 52,
+      "text": "Retenez ce mot pour respirer.",
+      "file": "c052.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 53,
+      "text": "[pause : 6]",
+      "file": "c053.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 54,
+      "text": "Voyez-vous avancer toute la matinée avec cette qualité.",
+      "file": "c054.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 55,
+      "text": "[pause : 5]",
+      "file": "c055.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 56,
+      "text": "[pause : 5]",
+      "file": "c056.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 57,
+      "text": "Étirez largement les doigts, puis doucement.",
+      "file": "c057.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 58,
+      "text": "Soulevez un peu les coins de la bouche, si cela vous semble vrai.",
+      "file": "c058.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 59,
+      "text": "[pause : 3]",
+      "file": "c059.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 60,
+      "text": "Sentez la colonne vertébrale s’allonger à la prochaine inspiration.",
+      "file": "c060.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 61,
+      "text": "Sentez les épaules se stabiliser à l’expiration.",
+      "file": "c061.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 62,
+      "text": "Une autre inspiration lumineuse.",
+      "file": "c062.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 63,
+      "text": "Et une expiration longue et facile.",
+      "file": "c063.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 64,
+      "text": "Remuez les doigts.",
+      "file": "c064.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 65,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c065.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 66,
+      "text": "Transportez cette énergie tranquille dans votre journée.",
+      "file": "c066.ogg",
+      "durationSec": 5.856
+    }
+  ]
+}
