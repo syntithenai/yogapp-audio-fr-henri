@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 96,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Vous avez pratiqué. Maintenant, laissez le corps le recevoir.",
+      "file": "c001.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 2,
+      "text": "Allongez-vous ou asseyez-vous facilement.",
+      "file": "c002.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux.",
+      "file": "c003.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 4,
+      "text": "[pause : 31]",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "Recherchez la chaleur, les vibrations ou la fatigue silencieuse.",
+      "file": "c005.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 6,
+      "text": "Pas de notation. Remarquez simplement.",
+      "file": "c006.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 45]",
+      "file": "c007.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 8,
+      "text": "Expirez longuement.",
+      "file": "c008.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 9,
+      "text": "Encore.",
+      "file": "c009.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 10,
+      "text": "[pause : 38]",
+      "file": "c010.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 11,
+      "text": "Remerciez le corps d'être venu.",
+      "file": "c011.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 12,
+      "text": "[pause : 31]",
+      "file": "c012.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 13,
+      "text": "Laissez les efforts s’écouler vers le sol.",
+      "file": "c013.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 14,
+      "text": "[pause : 45]",
+      "file": "c014.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 15,
+      "text": "Une inspiration claire.",
+      "file": "c015.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 16,
+      "text": "Une expiration complète.",
+      "file": "c016.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 17,
+      "text": "[pause : 38]",
+      "file": "c017.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 18,
+      "text": "Respirez encore une fois.",
+      "file": "c018.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 19,
+      "text": "Remuez les doigts.",
+      "file": "c019.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 20,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c020.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 21,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c021.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

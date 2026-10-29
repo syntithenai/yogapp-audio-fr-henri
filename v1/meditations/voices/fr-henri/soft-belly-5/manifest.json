@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 138,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Trouvez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 2,
+      "text": "Laissez les mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 3,
+      "text": "Adoucissez les yeux ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "Et une expiration plus longue.",
+      "file": "c005.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 6,
+      "text": "Posez une main sur le bas du ventre si vous le souhaitez.",
+      "file": "c006.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 7,
+      "text": "Remarquez si le ventre tient.",
+      "file": "c007.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 8,
+      "text": "[pause : 20]",
+      "file": "c008.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 9,
+      "text": "À l’inspiration suivante, laissez le ventre se dilater.",
+      "file": "c009.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 10,
+      "text": "À l’expiration, laissez-le retomber sans serrer.",
+      "file": "c010.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 11,
+      "text": "[pause : 20]",
+      "file": "c011.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 12,
+      "text": "Encore. Ventre mou dedans.",
+      "file": "c012.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 13,
+      "text": "Ventre mou.",
+      "file": "c013.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 14,
+      "text": "[pause : 25]",
+      "file": "c014.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 15,
+      "text": "Si l’esprit argumente, laissez le corps diriger.",
+      "file": "c015.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 16,
+      "text": "Expansion. Libérer.",
+      "file": "c016.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 17,
+      "text": "[pause : 29]",
+      "file": "c017.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 18,
+      "text": "Les épaules tombent.",
+      "file": "c018.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 19,
+      "text": "Mâchoire douce.",
+      "file": "c019.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 20,
+      "text": "Ventre libre.",
+      "file": "c020.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 21,
+      "text": "[pause : 25]",
+      "file": "c021.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 22,
+      "text": "Restez avec dix respirations calmes et douces du ventre.",
+      "file": "c022.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 23,
+      "text": "[pause : 45]",
+      "file": "c023.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 24,
+      "text": "Remarquez toute facilité qui est arrivée.",
+      "file": "c024.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 25,
+      "text": "[pause : 20]",
+      "file": "c025.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 26,
+      "text": "Reposez-vous ici.",
+      "file": "c026.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 27,
+      "text": "[pause : 27]",
+      "file": "c027.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 28,
+      "text": "Respirez encore une fois.",
+      "file": "c028.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 29,
+      "text": "Remuez les doigts.",
+      "file": "c029.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 30,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c030.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 31,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c031.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

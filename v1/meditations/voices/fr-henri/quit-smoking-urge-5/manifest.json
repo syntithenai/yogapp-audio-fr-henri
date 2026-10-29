@@ -1,0 +1,296 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 342,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenue.",
+      "file": "c000.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 1,
+      "text": "Si une envie est présente, vous êtes au bon endroit.",
+      "file": "c001.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 2,
+      "text": "Vous n'avez pas besoin de la combattre ni de la nourrir.",
+      "file": "c002.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 3,
+      "text": "Trouvez une position stable, ou tenez-vous debout avec les deux pieds au sol.",
+      "file": "c003.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 4,
+      "text": "Adoucissez les yeux, ou gardez un regard doux.",
+      "file": "c004.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 5,
+      "text": "Prenez une respiration lente par le nez.",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Et une expiration plus longue.",
+      "file": "c006.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 7,
+      "text": "[pause:12]",
+      "file": "c007.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Nommez simplement ce qui se passe.",
+      "file": "c008.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 9,
+      "text": "Une envie est présente.",
+      "file": "c009.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 10,
+      "text": "C'est une vague dans le corps et l'esprit.",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "Ce n'est pas un ordre.",
+      "file": "c011.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 12,
+      "text": "[pause:14]",
+      "file": "c012.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Remarquez où vous le ressentez.",
+      "file": "c013.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 14,
+      "text": "Poitrine. Gorge. Mains. Irritation.",
+      "file": "c014.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 15,
+      "text": "Pas besoin de l'agrandir. Il suffit de le localiser.",
+      "file": "c015.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 16,
+      "text": "[pause:16]",
+      "file": "c016.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Respirez dans cet endroit.",
+      "file": "c017.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 18,
+      "text": "Inspirez un espace doux.",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Expirez sans agir.",
+      "file": "c019.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 20,
+      "text": "[pause:16]",
+      "file": "c020.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Les envies montent, atteignent leur apogée et retombent.",
+      "file": "c021.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 22,
+      "text": "Vous êtes le rivage. La vague passe à travers.",
+      "file": "c022.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 23,
+      "text": "[pause:18]",
+      "file": "c023.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 24,
+      "text": "Si l'esprit vous propose une histoire sur le besoin d'une cigarette, remerciez-le et revenez.",
+      "file": "c024.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 25,
+      "text": "Revenez à la respiration.",
+      "file": "c025.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 26,
+      "text": "Revenez aux pieds sur le sol.",
+      "file": "c026.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 27,
+      "text": "[pause:16]",
+      "file": "c027.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "En silence, si cela aide.",
+      "file": "c028.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 29,
+      "text": "Ceci est temporaire.",
+      "file": "c029.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 30,
+      "text": "Je peux traverser cela sans fumer.",
+      "file": "c030.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 31,
+      "text": "[pause:18]",
+      "file": "c031.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "Encore une fois. Inspiration douce.",
+      "file": "c032.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 33,
+      "text": "Exhalation plus longue.",
+      "file": "c033.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 34,
+      "text": "[pause:16]",
+      "file": "c034.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Remarquez tout soulagement, même minime.",
+      "file": "c035.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 36,
+      "text": "Ou remarquez que vous êtes resté avec vous-même.",
+      "file": "c036.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 37,
+      "text": "Les deux comptent.",
+      "file": "c037.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 38,
+      "text": "[pause:16]",
+      "file": "c038.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 39,
+      "text": "Vous êtes un non-fumeur rencontrant un vieux écho.",
+      "file": "c039.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 40,
+      "text": "L'envie peut venir. Elle ne peut pas vous posséder.",
+      "file": "c040.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 41,
+      "text": "[pause:14]",
+      "file": "c041.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 42,
+      "text": "Prenez une dernière respiration facile.",
+      "file": "c042.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 43,
+      "text": "Agitez les doigts.",
+      "file": "c043.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 44,
+      "text": "Quand vous êtes prêt, ouvrez les yeux.",
+      "file": "c044.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 45,
+      "text": "Continuez votre journée libre.",
+      "file": "c045.ogg",
+      "durationSec": 4.224
+    }
+  ]
+}

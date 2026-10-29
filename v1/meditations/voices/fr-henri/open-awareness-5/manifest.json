@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 127,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Trouvez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 2,
+      "text": "Laissez les mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 3,
+      "text": "Adoucissez les yeux ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "Et une expiration plus longue.",
+      "file": "c005.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 6,
+      "text": "Commencez par respirer pendant quelques cycles.",
+      "file": "c006.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 7,
+      "text": "[pause : 28]",
+      "file": "c007.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 8,
+      "text": "Maintenant, élargissez. Incluez des sons.",
+      "file": "c008.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 9,
+      "text": "Près. Loin. Changement. Constant.",
+      "file": "c009.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 10,
+      "text": "[pause : 28]",
+      "file": "c010.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 11,
+      "text": "Incluez les sensations dans le corps.",
+      "file": "c011.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 12,
+      "text": "Points de contact. Température. Pouls doux.",
+      "file": "c012.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 13,
+      "text": "[pause : 28]",
+      "file": "c013.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 14,
+      "text": "Incluez l’espace de la pièce.",
+      "file": "c014.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 15,
+      "text": "La conscience comme le ciel ouvert.",
+      "file": "c015.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 16,
+      "text": "[pause : 34]",
+      "file": "c016.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 17,
+      "text": "Les pensées peuvent ressembler à la météo.",
+      "file": "c017.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 18,
+      "text": "Pas besoin de les poursuivre ou de les pousser.",
+      "file": "c018.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 19,
+      "text": "Le ciel demeure.",
+      "file": "c019.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 20,
+      "text": "[pause : 45]",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "Reposez-vous dans ce champ ouvert.",
+      "file": "c021.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 22,
+      "text": "[pause : 45]",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "Respirez encore une fois.",
+      "file": "c023.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 24,
+      "text": "Remuez les doigts.",
+      "file": "c024.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 25,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c025.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 26,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c026.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

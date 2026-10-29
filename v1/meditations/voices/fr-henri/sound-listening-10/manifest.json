@@ -1,0 +1,250 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 173,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez le temps d'arriver.",
+      "file": "c001.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 2,
+      "text": "Asseyez-vous ou allongez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 3,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact avec le sol.",
+      "file": "c004.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement.",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "Expirez plus longtemps.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pause : 23]",
+      "file": "c007.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 8,
+      "text": "Encore.",
+      "file": "c008.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 9,
+      "text": "[pause : 23]",
+      "file": "c009.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 10,
+      "text": "Laissez les épaules tomber.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Laissez le ventre ramollir.",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[pause : 29]",
+      "file": "c012.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 13,
+      "text": "Ouvrez les oreilles.",
+      "file": "c013.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 14,
+      "text": "Remarquez le son le plus proche.",
+      "file": "c014.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 15,
+      "text": "[pause : 29]",
+      "file": "c015.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 16,
+      "text": "Remarquez le son le plus éloigné que vous puissiez entendre.",
+      "file": "c016.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 17,
+      "text": "[pause : 29]",
+      "file": "c017.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 18,
+      "text": "Remarquez le silence entre les sons.",
+      "file": "c018.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 19,
+      "text": "[pause : 35]",
+      "file": "c019.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 20,
+      "text": "Les sons surgissent et passent. Vous n'avez pas besoin de les nommer.",
+      "file": "c020.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 21,
+      "text": "L’audition entend.",
+      "file": "c021.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 22,
+      "text": "[pause : 47]",
+      "file": "c022.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 23,
+      "text": "Lorsque l’esprit s’égare, revenez à l’écoute.",
+      "file": "c023.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 24,
+      "text": "[pause : 35]",
+      "file": "c024.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 25,
+      "text": "Incluez le son de votre propre respiration.",
+      "file": "c025.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 26,
+      "text": "[pause : 35]",
+      "file": "c026.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 27,
+      "text": "Reposez-vous dans tout le paysage sonore.",
+      "file": "c027.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 28,
+      "text": "Un champ de vibration vivant.",
+      "file": "c028.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 29,
+      "text": "[pause : 90]",
+      "file": "c029.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 30,
+      "text": "Rien à régler à l'écoute.",
+      "file": "c030.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 31,
+      "text": "[pause : 70]",
+      "file": "c031.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 32,
+      "text": "[pause : 35]",
+      "file": "c032.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 33,
+      "text": "Commencez à approfondir la respiration.",
+      "file": "c033.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 34,
+      "text": "Reposez-vous ici.",
+      "file": "c034.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 35,
+      "text": "[pause : 27]",
+      "file": "c035.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 36,
+      "text": "Sentez à nouveau la pièce.",
+      "file": "c036.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 37,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c037.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 38,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c038.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 39,
+      "text": "Avancez lentement vers ce qui va suivre.",
+      "file": "c039.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

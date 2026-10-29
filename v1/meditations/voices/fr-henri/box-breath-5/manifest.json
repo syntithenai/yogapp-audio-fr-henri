@@ -1,0 +1,238 @@
+{
+  "id": "box-breath-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 178,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Trouvez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 2,
+      "text": "Laissez les mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 3,
+      "text": "Adoucissez les yeux ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "Et une expiration plus longue.",
+      "file": "c005.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 6,
+      "text": "Nous respirerons dans une simple boîte.",
+      "file": "c006.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 7,
+      "text": "Pour quatre. Tenez pendant quatre. Sorti pour quatre. Tenez pendant quatre.",
+      "file": "c007.ogg",
+      "durationSec": 13.152
+    },
+    {
+      "index": 8,
+      "text": "Restez doux. Ne forcez jamais.",
+      "file": "c008.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 9,
+      "text": "[pause : 20]",
+      "file": "c009.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 10,
+      "text": "Inhaler. Deux. Trois. Quatre.",
+      "file": "c010.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 11,
+      "text": "Prise. Deux. Trois. Quatre.",
+      "file": "c011.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 12,
+      "text": "Exhaler. Deux. Trois. Quatre.",
+      "file": "c012.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 13,
+      "text": "Prise. Deux. Trois. Quatre.",
+      "file": "c013.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 14,
+      "text": "[pause : 20]",
+      "file": "c014.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 15,
+      "text": "Encore. Inhaler.",
+      "file": "c015.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 16,
+      "text": "Prise.",
+      "file": "c016.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 17,
+      "text": "Exhaler.",
+      "file": "c017.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 18,
+      "text": "Prise.",
+      "file": "c018.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 19,
+      "text": "[pause : 26]",
+      "file": "c019.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 20,
+      "text": "Continuez à votre guise pendant quelques tours.",
+      "file": "c020.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 21,
+      "text": "Si quatre est trop long, utilisez-en trois.",
+      "file": "c021.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 22,
+      "text": "[pause : 45]",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "Encore une boîte pleine.",
+      "file": "c023.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 24,
+      "text": "Inhaler.",
+      "file": "c024.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 25,
+      "text": "Prise.",
+      "file": "c025.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 26,
+      "text": "Exhaler.",
+      "file": "c026.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 27,
+      "text": "Prise.",
+      "file": "c027.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 28,
+      "text": "[pause : 26]",
+      "file": "c028.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 29,
+      "text": "Revenez à la respiration naturelle.",
+      "file": "c029.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 30,
+      "text": "Remarquez le calme qui suit.",
+      "file": "c030.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 31,
+      "text": "[pause : 33]",
+      "file": "c031.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 32,
+      "text": "Reposez-vous ici.",
+      "file": "c032.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 33,
+      "text": "[pause : 33]",
+      "file": "c033.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 34,
+      "text": "Respirez encore une fois.",
+      "file": "c034.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 35,
+      "text": "Remuez les doigts.",
+      "file": "c035.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 36,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c036.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 37,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c037.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

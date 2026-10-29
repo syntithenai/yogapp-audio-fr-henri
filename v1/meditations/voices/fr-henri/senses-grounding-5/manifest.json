@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 130,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Si vous vous sentez dispersé ou activé, cette pratique peut vous aider.",
+      "file": "c001.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 2,
+      "text": "Gardez les yeux ouverts pour le moment, si cela vous semble plus sûr.",
+      "file": "c002.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 3,
+      "text": "Plantez les deux pieds au sol.",
+      "file": "c003.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 4,
+      "text": "[pause : 17]",
+      "file": "c004.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 5,
+      "text": "Nommez cinq choses que vous pouvez voir.",
+      "file": "c005.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 6,
+      "text": "Tranquillement. Prenez votre temps.",
+      "file": "c006.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 7,
+      "text": "[pause : 45]",
+      "file": "c007.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 8,
+      "text": "Nommez quatre choses que vous pouvez ressentir ou toucher.",
+      "file": "c008.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 9,
+      "text": "Vêtements. Chaise. Air sur la peau. Pieds au sol.",
+      "file": "c009.ogg",
+      "durationSec": 10.824
+    },
+    {
+      "index": 10,
+      "text": "[pause : 39]",
+      "file": "c010.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 11,
+      "text": "Nommez trois sons.",
+      "file": "c011.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 12,
+      "text": "De près ou de loin. Doux ou clair.",
+      "file": "c012.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 13,
+      "text": "[pause : 39]",
+      "file": "c013.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 14,
+      "text": "Nommez deux parfums ou remarquez simplement la qualité de l’air.",
+      "file": "c014.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 15,
+      "text": "[pause : 28]",
+      "file": "c015.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 16,
+      "text": "Nommez un goût ou une sensation dans la bouche.",
+      "file": "c016.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 17,
+      "text": "[pause : 23]",
+      "file": "c017.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 18,
+      "text": "Vous êtes ici. Dans ce corps. Dans cette pièce.",
+      "file": "c018.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 19,
+      "text": "Inspirez pendant quatre.",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "Sortie pour six heures.",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "[pause : 23]",
+      "file": "c021.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 22,
+      "text": "Respirez encore une fois.",
+      "file": "c022.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 23,
+      "text": "Remuez les doigts.",
+      "file": "c023.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 24,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c024.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 25,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c025.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}
